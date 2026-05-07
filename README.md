@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Nguyễn Thanh Trương!
 
 <a href="https://github.com/truong-backend"><img align="left" alt="github" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="18px"/></a>
-<a href="https://www.linkedin.com/in/nguyenthanhtruong2003/"><img align="left" alt="linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="18px"/></a>
+<a href="https://www.linkedin.com/in/tr%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-thanh-a8a6553b4/"><img align="left" alt="linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="18px"/></a>
 
 <br/><br/>
 
