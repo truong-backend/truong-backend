@@ -17,7 +17,7 @@ A 2025 IT graduate who independently built **3 full-stack projects** from system
 - 💬 Ask me about **Spring Boot, Backend Architecture, Real-time Systems, Docker & CI/CD**
 - 📫 Reach me at: **truonggenzit@gmail.com**
 - 📞 Phone: **+84 981 907 754**
-- 📝 [View Full Resume](https://drive.google.com/file/d/YOUR_RESUME_LINK/view) | [Portfolio](https://truongengineering.notion.site/Nguyen-Thanh-Truong-34c9120673a98051bf88f62c8dd3e7dd)
+- 📝 [View Full Resume]([https://drive.google.com/file/d/YOUR_RESUME_LINK/view) | [Portfolio](https://truongengineering.notion.site/Nguyen-Thanh-Truong-34c9120673a98051bf88f62c8dd3e7dd](https://drive.google.com/file/d/1Wuwh5v21ZFpZWcApSMR8bRKva6vbcAS7/view?usp=sharing))
 - 🌐 Live Projects: [PocPoc Social](https://mangxahoi.deploy-my-project.site) • [E-Commerce](https://shopthoitrang.deploy-my-project.site) • [Smart Attendance](https://webdiemdanh.deploy-my-project.site)
 
 ### 🔨 Languages and Tools
