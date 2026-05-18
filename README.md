@@ -240,10 +240,10 @@
 </table>
 
 ---
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=truong-backend&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong-backend&layout=compact&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=truong-backend&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=truong-backend&theme=transparent" width="100%"/>
 </p>
