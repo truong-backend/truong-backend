@@ -16,8 +16,7 @@
 
 ---
 
-## 🛠️ Technical Skills
-
+🛠️ Technical Skills
 <table>
   <tr>
     <td><b>Languages</b></td>
@@ -56,15 +55,11 @@
     <td>VPS metrics (CPU, RAM, Disk, Network), logging, error tracking, health checks</td>
   </tr>
 </table>
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,typescript,tailwind,mysql,redis,neo4j,rabbitmq,docker,nginx,git,githubactions,linux,postman"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,typescript,tailwind,mysql,redis,neo4j,rabbitmq,docker,nginx,git,githubactions,linux,postman&perline=16"/>
   </a>
 </p>
-
----
-
 ## 💼 Work Experience
 
 <table>
