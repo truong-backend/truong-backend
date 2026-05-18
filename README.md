@@ -32,6 +32,17 @@ A 2025 IT graduate who independently built **3 full-stack projects** from system
   <img src="https://github-readme-stats.vercel.app/api?username=truong-backend&show_icons=true&theme=transparent" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong-backend&layout=compact&theme=transparent" />
 </a>
+### 🛠️ Technical Skills
+- **Languages**: Java 17/21, JavaScript (ES6+), TypeScript, SQL
+- **Backend**: Spring Boot (MVC, Security, Data JPA, Data Neo4j), RESTful API, JWT
+- **Frontend**: React.js (TypeScript, Zustand, React Query), Next.js 15, Tailwind CSS, MUI, Ant Design
+- **Database & Cache**: MySQL 8, Neo4j 5 (Cypher, APOC), Redis 7, SQLite
+- **Messaging & Realtime**: RabbitMQ (DLQ), WebSocket / STOMP
+- **DevOps**: Docker, Docker Compose, Nginx, GitHub Actions (CI/CD), VPS (Hetzner Ubuntu 24), Git
+- **Architecture**: OOP, SOLID, MVC, Microservices, Repository, Factory, Strategy
+- **Security & Performance**: JWT, BCrypt, Redis caching, Distributed Lock, Query Optimization
+- **Monitoring**: VPS metrics (CPU, RAM, Disk, Network), logging, error tracking, health checks
+
 ### 💼 Work Experience
 
 **Freelance Fullstack Developer — Medical Clinic Management System**  
@@ -47,18 +58,8 @@ A 2025 IT graduate who independently built **3 full-stack projects** from system
 - Managed VPS deployment infrastructure using Docker, Nginx, and GitHub Actions CI/CD pipelines.
 - Monitored VPS resources (CPU, RAM, Disk, Network) and server health; tracked application logs via `docker logs` and Linux system tools.
 - Maintained production environment including SSL configuration, domain routing, backups, and server security updates.
-- 
-### 🛠️ Technical Skills
-- **Languages**: Java 17/21, JavaScript (ES6+), TypeScript, SQL
-- **Backend**: Spring Boot (MVC, Security, Data JPA, Data Neo4j), RESTful API, JWT
-- **Frontend**: React.js (TypeScript, Zustand, React Query), Next.js 15, Tailwind CSS, MUI, Ant Design
-- **Database & Cache**: MySQL 8, Neo4j 5 (Cypher, APOC), Redis 7, SQLite
-- **Messaging & Realtime**: RabbitMQ (DLQ), WebSocket / STOMP
-- **DevOps**: Docker, Docker Compose, Nginx, GitHub Actions (CI/CD), VPS (Hetzner Ubuntu 24), Git
-- **Architecture**: OOP, SOLID, MVC, Microservices, Repository, Factory, Strategy
-- **Security & Performance**: JWT, BCrypt, Redis caching, Distributed Lock, Query Optimization
-- **Monitoring**: VPS metrics (CPU, RAM, Disk, Network), logging, error tracking, health checks
 
+- 
 ### 🚀 Featured Projects
 
 **PocPoc — Social Network (Fullstack)**  
