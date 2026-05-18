@@ -32,7 +32,22 @@ A 2025 IT graduate who independently built **3 full-stack projects** from system
   <img src="https://github-readme-stats.vercel.app/api?username=truong-backend&show_icons=true&theme=transparent" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong-backend&layout=compact&theme=transparent" />
 </a>
+### 💼 Work Experience
 
+**Freelance Fullstack Developer — Medical Clinic Management System**  
+*Apr 2026 — May 2026*  
+[chuyenkhoamat.com.vn](https://chuyenkhoamat.com.vn)
+
+*Spring Boot · React.js · MySQL · Docker · Nginx · CI/CD*
+
+- Independently developed and deployed a production-ready clinic management system for a real client.
+- Designed and implemented backend services using Spring Boot with RESTful APIs, JWT authentication, and role-based access control.
+- Developed responsive frontend interfaces with React.js; integrated API communication and optimized user workflows.
+- Designed and optimized MySQL database schemas, relationships, indexes, and query performance.
+- Managed VPS deployment infrastructure using Docker, Nginx, and GitHub Actions CI/CD pipelines.
+- Monitored VPS resources (CPU, RAM, Disk, Network) and server health; tracked application logs via `docker logs` and Linux system tools.
+- Maintained production environment including SSL configuration, domain routing, backups, and server security updates.
+- 
 ### 🛠️ Technical Skills
 - **Languages**: Java 17/21, JavaScript (ES6+), TypeScript, SQL
 - **Backend**: Spring Boot (MVC, Security, Data JPA, Data Neo4j), RESTful API, JWT
